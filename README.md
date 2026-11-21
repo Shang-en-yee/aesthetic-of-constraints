@@ -12,6 +12,15 @@
 
 ---
 
+## 配套仓库
+
+这篇论文的分析对象是别人的作品；下面两个仓库是把同样的原理用在自己身上的产物：
+
+- **[gravity-code-animation](https://github.com/Shang-en-yee/gravity-code-animation)** — 实践：两分钟中文成片《引力》，每一帧都是代码算出来的，附四维量化指标与单文件渲染器
+- **[code-animation-skill](https://github.com/Shang-en-yee/code-animation-skill)** — 流水线：把上述流程打包成 agent skill（storyboard → 渲染 → 自动质检），含 8 个镜头模板与验收阈值
+
+---
+
 ## 摘要
 
 2025–2026 年间，X 与 B 站出现了一批由大语言模型（Claude Code / Opus 系列）生成的"代码动画"短片：从像素风课堂课件、剪纸皮影叙事，到深空光轨与五分钟物理纪录片。这些作品题材迥异、作者不同，却在视觉语法上高度同构。
